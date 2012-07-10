@@ -1,6 +1,5 @@
 //
 //  NSDate+Simple.h
-//  Katapakote
 //
 //  Created by Thiago Peres on 6/2/11.
 //  Copyright 2011 Thiago Peres. All rights reserved.

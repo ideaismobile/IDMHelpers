@@ -1,6 +1,5 @@
 //
 //  AKNavigationBar.h
-//  Katapakote
 //
 //  Created by Thiago Peres on 2/15/12.
 //  Copyright (c) 2012 Thiago Peres. All rights reserved.

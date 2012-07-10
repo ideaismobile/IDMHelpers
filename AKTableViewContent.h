@@ -1,6 +1,5 @@
 //
 //  TPTableViewContent.h
-//  Katapakote
 //
 //  Created by Thiago Peres on 12/21/11.
 //  Copyright (c) 2011 Thiago Peres. All rights reserved.

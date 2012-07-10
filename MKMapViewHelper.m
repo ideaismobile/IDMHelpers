@@ -1,6 +1,5 @@
 //
 //  MKMapViewHelper.m
-//  tphelpers
 //
 //  Created by Thiago Peres on 6/16/11.
 //  Copyright 2011 Thiago Peres. All rights reserved.
